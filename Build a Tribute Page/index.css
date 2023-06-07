@@ -1,0 +1,24 @@
+*{
+    box-sizing:border-box;
+    font-family:sans-serif;
+  }
+  body{
+    color:black;
+    background:gray;
+  }
+  #main{
+    display:block;
+    width:80%;
+    margin:auto;
+    
+  }
+  #title{
+    font-size:20px;
+    text-align:center;
+  }
+  #image{
+    width:100%;
+    max-width:100%;
+    height:50% auto;
+    display:block;
+  }
